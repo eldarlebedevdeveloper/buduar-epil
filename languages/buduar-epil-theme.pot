@@ -1,0 +1,1143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Buduar Epil Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-16 22:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: buduar-epil-theme"
+
+#: home.php:596
+msgid " (również w okolicach miejsc intymnych)."
+msgstr ""
+
+#: home.php:612
+msgid " 1-2 wizyty w roku wystarczą, by utrzymać efekt"
+msgstr ""
+
+#: home.php:672
+msgid " dzięki wysokiej wydajności lasera"
+msgstr ""
+
+#: home.php:625
+msgid " Gładka, zadbana skóra każdego dnia to nie marzenie, a rzeczywistość!"
+msgstr ""
+
+#: home.php:674
+msgid " i spełnia nowoczesne wymagania rynku"
+msgstr ""
+
+#: home.php:516 home.php:869
+msgid " i wyrażam zgodę na przetwarzanie danych osobowych"
+msgstr ""
+
+#: home.php:856
+msgid " już dziś i rozpocznij drogę do gładkiej skóry bez włosów!"
+msgstr ""
+
+#: home.php:874
+msgid " Lub zadzwoń do"
+msgstr ""
+
+#: home.php:1079
+msgid " lub zadzwoń do nas:"
+msgstr ""
+
+#: home.php:675
+msgid " na każdym fototypie skóry"
+msgstr ""
+
+#: home.php:585
+msgid " odczuwalne jest ciepło lub lekkie mrowienie."
+msgstr ""
+
+#: home.php:565
+msgid " owłosienie nawet z trudno dostępnych miejsc,"
+msgstr ""
+
+#: home.php:56
+msgid " Pachy + Bikini Głębokie + Nogi Całkowicie"
+msgstr ""
+
+#: home.php:75
+msgid " Pachy + Bikini Głębokie + Łydki"
+msgstr ""
+
+#: home.php:670
+msgid " po zabiegu"
+msgstr ""
+
+#: home.php:869
+msgid " polityką prywatności nas:"
+msgstr ""
+
+#: home.php:639
+msgid ""
+" pozbędziesz się ewentualnych defektów skóry i zapalenia mieszków włosowych"
+msgstr ""
+
+#: home.php:727
+msgid " procedura "
+msgstr ""
+
+#: home.php:28 home.php:42 home.php:61 home.php:80 home.php:99 home.php:199
+#: home.php:681 header.php:99
+msgid " Umów się na wizytę"
+msgstr ""
+
+#: home.php:17
+msgid " w Poznaniu"
+msgstr ""
+
+#: home.php:584
+msgid " Zabieg jest całkowicie bezbolesny,"
+msgstr ""
+
+#: home.php:566
+msgid " zapewniając długotrwałe rezultaty."
+msgstr ""
+
+#: home.php:654
+msgid ""
+" Został specjalnie zaprojektowany, aby spełnić potrzeby klientów w zakresie "
+"nowoczesnej procedury depilacji laserowej."
+msgstr ""
+
+#: home.php:54 home.php:73 home.php:92
+msgid "-15% zniżkę"
+msgstr ""
+
+#: page-privacy.php:15
+msgid "1. Zasady ogólne "
+msgstr ""
+
+#: page-privacy.php:25
+msgid ""
+"2. Cele i podstawy prawne przetwarzania danych osobowych w ramach Serwisu"
+msgstr ""
+
+#: page-privacy.php:44
+msgid "3. Okres przetwarzania danych osobowych"
+msgstr ""
+
+#: page-privacy.php:55
+msgid "4. Prawa użytkownika dotyczące przetwarzania danych osobowych"
+msgstr ""
+
+#: page-privacy.php:72
+msgid ""
+"5. Odbiorcy danych i przekazywanie danych do państw trzecich lub organizacji "
+"międzynarodowych"
+msgstr ""
+
+#: page-privacy.php:81
+msgid "6. Okres przechowywania danych"
+msgstr ""
+
+#: page-privacy.php:89
+msgid "7. Pliki cookies"
+msgstr ""
+
+#: page-privacy.php:21
+msgid ""
+"Administrator chroni dane osobowe Użytkowników przed bezprawnym dostępem do "
+"nich osób trzecich, ocenia środki ochrony danych osobowych, zapewnia "
+"poufność, integralność, dostępność i stabilność systemów i usług "
+"przetwarzania."
+msgstr ""
+
+#: page-privacy.php:101
+msgid ""
+"Administrator może aktualizować i zmieniać treść niniejszej Polityki "
+"Prywatności, w szczególności w przypadku rozwoju technologii internetowych, "
+"zmian w przepisach dotyczących ochrony danych osobowych lub rozwoju Serwisu. "
+"Wszelkie zmiany będą publikowane na niniejszej stronie."
+msgstr ""
+
+#: page-privacy.php:96
+msgid ""
+"Administrator może gromadzić dwa rodzaje plików cookies – sesyjne i stałe. "
+"Pliki sesyjne są tymczasowe i pozostają na urządzeniu Użytkownika do momentu "
+"opuszczenia strony internetowej lub wyłączenia przeglądarki internetowej. "
+"Pliki stałe pozostają na urządzeniu Użytkownika przez czas określony w "
+"parametrach plików cookies lub do momentu ich ręcznego usunięcia przez "
+"Użytkownika."
+msgstr ""
+
+#: page-privacy.php:98
+msgid ""
+"Administrator zastrzega, że ograniczenie stosowania plików cookies może "
+"wpłynąć na niektóre funkcjonalności dostępne na stronie Serwisu i w "
+"skrajnych przypadkach może uniemożliwić korzystanie z Serwisu."
+msgstr ""
+
+#: home.php:1001
+msgid ""
+"Aktywne opalanie w miejscu depilacji, stosowanie samoopalaczy, wizyty w "
+"solarium - za 4 tygodnie przed zabiegiem;"
+msgstr ""
+
+#: footer.php:323
+msgid "Aplikacja zakończyła się sukcesem!"
+msgstr ""
+
+#: home.php:726
+msgid "Bezbolesna"
+msgstr ""
+
+#: home.php:17
+msgid "Bezbolesna depilacja laserowa"
+msgstr ""
+
+#: home.php:669
+msgid "Bezbolesna procedura"
+msgstr ""
+
+#: page-privacy.php:42
+msgid ""
+"bezpośredniego oferowania Użytkownikom własnych produktów i usług (marketing "
+"bezpośredni i remarketing), w szczególności dopasowywania ich do potrzeb "
+"Użytkownika poprzez profilowanie, które jednak nie będzie istotnie wpływać "
+"na sytuację Użytkownika lub powodować wobec niego skutków prawnych, co jest "
+"prawnie uzasadnionym interesem Administratora."
+msgstr ""
+
+#: home.php:1000
+msgid "Bielactwo, łuszczyca, ichtioza;"
+msgstr ""
+
+#: home.php:163
+msgid "Bolesna depilacja"
+msgstr ""
+
+#: footer.php:13
+msgid "Buduar Epil - depilacja laserowa w Poznaniu"
+msgstr ""
+
+#. Name of the theme
+msgid "Buduar Epil Theme"
+msgstr ""
+
+#: home.php:153
+msgid "Bądź o krok bliżej wymarzonej sylwetki"
+msgstr ""
+
+#: home.php:696
+msgid "Certyfikowany sprzęt"
+msgstr ""
+
+#: home.php:997
+msgid "Choroby onkologiczne;"
+msgstr ""
+
+#: home.php:993
+msgid "Ciąża, karmienie piersią;"
+msgstr ""
+
+#: home.php:1050
+msgid "Co jest zabronione po depilacji laserowej?"
+msgstr ""
+
+#: home.php:1065
+msgid "Czy pracujecie z włosami o jasnym odcieniu?"
+msgstr ""
+
+#: home.php:1022
+msgid "Czy zabieg jest bezpieczny i sterylny? "
+msgstr ""
+
+#: page-privacy.php:46
+msgid ""
+"Dane osobowe Użytkowników będą przetwarzane przez okres niezbędny do "
+"realizacji powyższych celów, w szczególności:"
+msgstr ""
+
+#: page-privacy.php:31
+msgid ""
+"Dane Użytkownika gromadzone i przetwarzane przez Administratora obejmują "
+"następujące rodzaje danych osobowych Użytkownika: imię, nazwisko, numer "
+"telefonu kontaktowego."
+msgstr ""
+
+#: page-privacy.php:32
+msgid ""
+"Dane Użytkownika przetwarzane są przez Administratora w następujących celach:"
+msgstr ""
+
+#: page-privacy.php:29
+msgid "Dane Użytkownika wprowadzone do Serwisu są jego własnością."
+msgstr ""
+
+#: page-privacy.php:102
+msgid "Data ostatniej aktualizacji: 01.07.2024"
+msgstr ""
+
+#: home.php:208
+msgid "Depilacja damska"
+msgstr ""
+
+#: header.php:60
+msgid "depilacja laserowa"
+msgstr ""
+
+#: home.php:649
+msgid ""
+"Depilacja laserowa FENIX FireFly 1600W – szybki i bezbolesny sposób na "
+"trwałe usunięcie niechcianych włosków!"
+msgstr ""
+
+#: home.php:209
+msgid "Depilacja męska"
+msgstr ""
+
+#: home.php:995
+msgid "Depilacja woskiem lub pęsetą za 4 tygodnie przed zabiegiem;"
+msgstr ""
+
+#: home.php:1035
+msgid ""
+"Depilowane miejsca powinny być dokładnie ogolone.Miejsca depilowane należy "
+"dokładnie ogolić na 8-24 godziny przed zabiegiem. Jeśli planowana jest "
+"depilacja laserowa górnej wargi, nie można golić tego obszaru, ale usunąć "
+"włosy za pomocą kremu do depilacji."
+msgstr ""
+
+#: home.php:686
+msgid "Dlaczego warto nas wybrać? – Sprawdź nasze atuty!"
+msgstr ""
+
+#: page-privacy.php:77
+msgid ""
+"dostawcy usług zaopatrujący Administratora w rozwiązania techniczne i "
+"organizacyjne umożliwiające świadczenie usług funkcjonalnych (w "
+"szczególności firmy świadczące usługi kurierskie i pocztowe, usługi IT, "
+"usługi marketingowe, prawne i doradcze, a także ich upoważnieni pracownicy i "
+"współpracownicy),"
+msgstr ""
+
+#: page-privacy.php:73
+msgid "Dostęp do danych osobowych Użytkownika mogą mieć następujące kategorie"
+msgstr ""
+
+#: home.php:638
+msgid "Dzięki depilacji laserowej zapomnisz o podrażnieniach,"
+msgstr ""
+
+#. Author of the theme
+msgid "EldarDeveloper"
+msgstr ""
+
+#: home.php:653
+msgid ""
+"FENIX FireFly 1600w to laser nowej generacji, który posiada wszystkie "
+"niezbędne certyfikaty Unii Europejskiej i FDA."
+msgstr ""
+
+#: page-privacy.php:78
+msgid ""
+"firmy, które prowadzą analitykę danych w celu personalizacji reklam i są w "
+"tym kontekście odrębnymi administratorami, w szczególności Google LLC, "
+"więcej informacji na temat ochrony danych można znaleźć na stronie "
+"internetowej pod adresem, Podgórna 12, Poznań, Poland 61-829."
+msgstr ""
+
+#: home.php:900
+msgid "Galeria"
+msgstr ""
+
+#: home.php:854
+msgid "Gotowy na zmianę?"
+msgstr ""
+
+#: home.php:194
+msgid "Gładka skóra"
+msgstr ""
+
+#. Name of the template
+#: home.php:2
+msgid "Home"
+msgstr ""
+
+#: footer.php:155 footer.php:181 footer.php:209 footer.php:236 footer.php:265
+#: footer.php:305
+msgid "i wyrażam zgodę na wykorzystywanie danych osobowych"
+msgstr ""
+
+#: home.php:1012
+msgid "Ile zabiegów jest potrzebne do zadowalającego efektu?"
+msgstr ""
+
+#: footer.php:145 footer.php:175 footer.php:203 footer.php:230 footer.php:259
+#: footer.php:298 home.php:506 home.php:861
+msgid "Imię*"
+msgstr ""
+
+#: home.php:711
+msgid "Indywidualne podejście do każdego klienta"
+msgstr ""
+
+#: page-privacy.php:30
+msgid ""
+"Informacje i dane o Użytkownikach zbierane są w celu umożliwienia im "
+"korzystania z usług Buduar_Epil_Poznań."
+msgstr ""
+
+#: home.php:501
+msgid "Jak przygotować się do depilacji laserowej"
+msgstr ""
+
+#: home.php:1032
+msgid "Jak przygotować się do depilacji laserowej?"
+msgstr ""
+
+#: home.php:989
+msgid "Jakie są przeciwskazania do depilacji laserowej?"
+msgstr ""
+
+#: home.php:750 header.php:87 header.php:95
+msgid "Kontakt"
+msgstr ""
+
+#: page-privacy.php:20
+msgid ""
+"Kontakt z Administratorem jest możliwy pod numerem telefonu: +48 732 954 980 "
+"oraz pod adresem: Święty Marcin 12/2a, Poznań, Polska 61-803"
+msgstr ""
+
+#: page-privacy.php:28
+msgid ""
+"Korzystanie z funkcjonalności Serwisu może wiązać się z gromadzeniem i "
+"przetwarzaniem przez Administratora danych osobowych Użytkowników"
+msgstr ""
+
+#: footer.php:274
+msgid "Lub zarejestruj się przez Booksy"
+msgstr ""
+
+#: home.php:507 home.php:862
+msgid "Marta"
+msgstr ""
+
+#: home.php:1076
+msgid "Masz jakieś pytania?"
+msgstr ""
+
+#: home.php:55 home.php:74 home.php:93
+msgid "Na pierwszą wizytę"
+msgstr ""
+
+#: home.php:565
+msgid "Nasz laser efektywnie usuwa "
+msgstr ""
+
+#: home.php:1057
+msgid "Nie należy depilować się woskiem."
+msgstr ""
+
+#: home.php:1059
+msgid ""
+"Nie należy masować obszarów ciała, na których wykonano depilację, przez "
+"następne 72 godziny."
+msgstr ""
+
+#: home.php:1036
+msgid ""
+"Nie należy opalać się na aktywnym słońcu przez 2 tygodnie.Konieczne jest "
+"unikanie opalania się w aktywnym słońcu przez co najmniej 14 dni przed "
+"zabiegiem. Nie należy również opalać się w solarium ani używać samoopalacza. "
+"Latem zaleca się stosowanie kremu z filtrem przeciwsłonecznym co najmniej 50 "
+"SPF na odsłoniętych obszarach ciała."
+msgstr ""
+
+#: home.php:1040
+msgid ""
+"Nie należy przecierać obszaru produktami i kremami zawierającymi alkohol.Nie "
+"przecierać obszaru produktami zawierającymi alkohol (toniki, płyny itp.) "
+"przez 3 dni przed zabiegiem. Nie należy nakładać kremów nawilżających na "
+"obszary, w których zostanie przeprowadzona depilacja."
+msgstr ""
+
+#: home.php:1044
+msgid ""
+"Nie należy przyjmować antybiotyków przez 2 tygodnie. Przez 14 dni przed "
+"zabiegiem nie należy przyjmować antybiotyków z grupy tetracyklin, "
+"fluorochinolonów i sulfonamidów."
+msgstr ""
+
+#: home.php:1043
+msgid ""
+"Nie należy również chodzić na basen ani pływać w rzekach i jeziorach przez 3 "
+"dni przed zabiegiem."
+msgstr ""
+
+#: home.php:1054
+msgid "Nie należy stosować peelingu ani szorowania."
+msgstr ""
+
+#: home.php:1055
+msgid "Nie należy wyrywać włosków pęsetą."
+msgstr ""
+
+#: home.php:1058
+msgid "Nie słodzić po depilacji laserowej."
+msgstr ""
+
+#: home.php:1038
+msgid ""
+"Nie usuwaj włosków u korzenia.W przypadku wcześniejszego usunięcia włosków z "
+"cebulką (woskiem, depilatorem lub pęsetą) należy odczekać 2-3 tygodnie, aż "
+"włoski całkowicie się odbudują. Laser działa bezpośrednio na pigment i "
+"mieszek włosowy."
+msgstr ""
+
+#: home.php:1056
+msgid ""
+"Nie używaj golarek elektrycznych w domu, które wyrywają włosy u korzenia."
+msgstr ""
+
+#: home.php:184
+msgid "Nowe emocje i uczucia"
+msgstr ""
+
+#: home.php:510 home.php:864
+msgid "Numer telefonu"
+msgstr ""
+
+#: footer.php:146 footer.php:176 footer.php:204 footer.php:231 footer.php:260
+#: footer.php:300
+msgid "Numer telefonu*"
+msgstr ""
+
+#: home.php:984
+msgid "Odpowiedzi na najczęściej zadawane pytania – rozwiej swoje wątpliwości!"
+msgstr ""
+
+#: home.php:994
+msgid "Opalanie;"
+msgstr ""
+
+#: header.php:84 header.php:92
+msgid "Opinie"
+msgstr ""
+
+#: home.php:323
+msgid "Opinie naszych klientów – dowiedz się, co mówią o nas!"
+msgstr ""
+
+#: home.php:998
+msgid "Opryszczka, zmiany wirusowe i bakteryjne w miejscu depilacji;"
+msgstr ""
+
+#: footer.php:171
+msgid "Otrzymaj 15% zniżki na pierwszą wizytę!"
+msgstr ""
+
+#: home.php:94
+msgid "Pachy + Łydki"
+msgstr ""
+
+#. Description of the theme
+msgid "Personal theme for Buduar Elip website"
+msgstr ""
+
+#: home.php:189
+msgid "Pewność siebie"
+msgstr ""
+
+#: page-privacy.php:97
+msgid ""
+"Pliki cookies umieszczane na urządzeniu końcowym Użytkownika Serwisu mogą "
+"być także wykorzystywane przez reklamodawców współpracujących z "
+"Administratorem. Pliki cookies mogą być również używane, na przykład, przez "
+"sieć Google do wyświetlania reklam dopasowanych do sposobu korzystania z "
+"Serwisu przez Użytkownika. W tym celu mogą przechowywać informacje o ścieżce "
+"nawigacyjnej Użytkownika lub czasie spędzonym na konkretnej stronie. "
+"Informacje o preferencjach Użytkownika gromadzone przez sieć Google."
+msgstr ""
+
+#: home.php:771 header.php:106
+msgid "Pn-Sob: 10:00-19:00"
+msgstr ""
+
+#: home.php:179
+msgid "PO "
+msgstr ""
+
+#: home.php:595
+msgid "Po serii zabiegów "
+msgstr ""
+
+#: footer.php:198 footer.php:201
+msgid "Pobierz przewodnik \"Jak przygotować się do depilacji laserowej\""
+msgstr ""
+
+#: page-privacy.php:82
+msgid ""
+"Podane przez Użytkownika dane osobowe będą przetwarzane w zakresie i przez "
+"okres niezbędny do realizacji celów, dla których zostały zebrane. Okres ten "
+"nie może być określony jednoznacznie i zależy od decyzji dotyczących "
+"korzystania z usług Administratora, w związku z którymi dane zostały zebrane,"
+" przy czym okres ten nie może zostać przekroczony:"
+msgstr ""
+
+#: footer.php:123 page-privacy.php:13
+msgid "Polityka prywatności"
+msgstr ""
+
+#: page-privacy.php:17
+msgid ""
+"Polityka Prywatności określa zasady zachowania poufności i przetwarzania "
+"danych osobowych osób korzystających z serwisu internetowego działającego "
+"pod adresem buduar-epil.pl (dalej: „Serwis\")."
+msgstr ""
+
+#: footer.php:153 footer.php:181 footer.php:209 footer.php:236 footer.php:265
+#: footer.php:305 home.php:516
+msgid "polityką prywatności"
+msgstr ""
+
+#: footer.php:36
+msgid "Pon-Sob: 10:00-19:00"
+msgstr ""
+
+#: home.php:622
+msgid "Poprawisz komfort swojego życia"
+msgstr ""
+
+#: home.php:21
+msgid "Potężny laser nowej generacji"
+msgstr ""
+
+#: home.php:564
+msgid "Pozbywasz się niechcianego owłosienia"
+msgstr ""
+
+#: page-privacy.php:68
+msgid ""
+"prawo do cofnięcia zgody w dowolnym momencie bez wpływu na zgodność z prawem "
+"przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem,"
+msgstr ""
+
+#: page-privacy.php:65
+msgid "prawo do ograniczenia przetwarzania danych,"
+msgstr ""
+
+#: page-privacy.php:62
+msgid "prawo do poprawiania niedokładnych lub niekompletnych danych osobowych,"
+msgstr ""
+
+#: page-privacy.php:66
+msgid "prawo do przenoszenia danych,"
+msgstr ""
+
+#: page-privacy.php:64
+msgid "prawo do usunięcia danych,"
+msgstr ""
+
+#: page-privacy.php:67
+msgid "prawo do wniesienia sprzeciwu wobec przetwarzania danych,"
+msgstr ""
+
+#: page-privacy.php:60
+msgid ""
+"prawo dostępu do swoich danych osobowych, w tym prawo do otrzymania kopii "
+"tych danych,"
+msgstr ""
+
+#: page-privacy.php:69
+msgid ""
+"prawo wniesienia skargi do organu nadzorczego zajmującego się ochroną danych "
+"osobowych."
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#. Name of the template
+#: page-privacy.php:2
+msgid "Privacy"
+msgstr ""
+
+#: home.php:417
+msgid "Promocja 5+1 – Gładka skóra na wyciągnięcie ręki!"
+msgstr ""
+
+#: home.php:37
+msgid "PROMOCJA 5+1 – Zyskaj więcej z depilacją laserową!"
+msgstr ""
+
+#: home.php:207 header.php:85 header.php:93
+msgid "Promocje"
+msgstr ""
+
+#: home.php:158
+msgid "PRZED"
+msgstr ""
+
+#: page-privacy.php:22
+msgid ""
+"Przetwarzanie i gromadzenie danych Użytkowników odbywa się zgodnie z "
+"wymogami polskiego prawa."
+msgstr ""
+
+#: home.php:1053
+msgid ""
+"Przez 10 dni po zabiegu nie należy się opalać, długo przebywać na słońcu, "
+"chodzić do solarium<"
+msgstr ""
+
+#: home.php:20
+msgid "Przy zakupie 5 zabiegów, 6 zabieg jest gratis"
+msgstr ""
+
+#: home.php:1002
+msgid ""
+"Przyjmowanie leków i ziół światłouczulających, takich jak nagietek, fiołek "
+"trójbarwny, dziurawiec, skrzyp, niektóre herbatki odchudzające - należy "
+"zrobić co najmniej 2-tygodniową przerwę;"
+msgstr ""
+
+#: page-privacy.php:91
+msgid ""
+"Serwis automatycznie zbiera jedynie informacje zawarte w plikach cookies, o "
+"których mowa poniżej."
+msgstr ""
+
+#: footer.php:324
+msgid "Skontaktujemy się z Tobą wkrótce"
+msgstr ""
+
+#: footer.php:241
+msgid "Skorzystaj"
+msgstr ""
+
+#: footer.php:173
+msgid "Skorzystaj z 15 procent  zniżki na pierwszą wizytę!"
+msgstr ""
+
+#: footer.php:226 footer.php:228
+msgid "Skorzystaj z gorącej oferty 5+1"
+msgstr ""
+
+#: home.php:38
+msgid ""
+"Skorzystaj z wyjątkowej oferty – przy zakupie 5 zabiegów depilacji laserowej,"
+" 6. zabieg otrzymujesz gratis! Gładka skóra na dłużej bez dodatkowych "
+"kosztów."
+msgstr ""
+
+#: home.php:672
+msgid "Skrócony czas trwania zabiegów"
+msgstr ""
+
+#: home.php:23
+msgid "Skuteczne usuwanie włosów"
+msgstr ""
+
+#: home.php:625
+msgid "Staniesz się bardziej pewna siebie."
+msgstr ""
+
+#: home.php:1003
+msgid ""
+"Stosowanie kremów lub maści z witaminą A, retinoidami (np. Isotrexin, "
+"Differin, Zorak itp.). Doustna terapia retinoidami wymaga sześciomiesięcznej "
+"przerwy między zakończeniem leczenia a pierwszym zabiegiem;"
+msgstr ""
+
+#: home.php:1004
+msgid ""
+"Stosowanie witaminy C oraz kwasów owocowych i chemicznych na depilowany "
+"obszar wymaga miesięcznej przerwy przed zabiegiem;"
+msgstr ""
+
+#: home.php:1006
+msgid "Stwardnienie rozsiane."
+msgstr ""
+
+#: home.php:741
+msgid "Szybki i długotrwały efekt"
+msgstr ""
+
+#: home.php:1024
+msgid ""
+"Tak, depilacja laserowa jest całkowicie bezpieczna i sterylna. Pomimo dość "
+"długiego i udanego doświadczenia w stosowaniu, nadal istnieją pewne obawy "
+"dotyczące depilacji laserowej. Promienie lasera używane do usuwania "
+"owłosienia nie wnikają głębiej niż podskórna tkanka tłuszczowa, więc nie "
+"mogą wpływać na narządy wewnętrzne. Pomysł, że kobiety, które nie rodziły, "
+"nie powinny poddawać się depilacji bikini, to nic innego jak mit. Możliwość "
+"narażenia się na nadmierne promieniowanie ultrafioletowe podczas zabiegu "
+"depilacji laserowej jest kilkukrotnie niższa niż w przypadku opalania się "
+"bez użycia kremu ochronnego. Używamy nowoczesnego sprzętu i ściśle "
+"przestrzegamy wszystkich norm sanitarnych i higienicznych. Wszystkie "
+"narzędzia są dokładnie sterylizowane, a specjaliści noszą sterylne "
+"rękawiczki."
+msgstr ""
+
+#: home.php:1068
+msgid ""
+"Tak, pracujemy z włosami jasnymi! Laser FENIX FireFly 1600w został "
+"zaprojektowany do skutecznego usuwania nawet cienkich i lekko pigmentowanych "
+"włosów na każdym fototypie skóry. Jednak do osiągnięcia pożądanego efektu "
+"może być wymagane więcej zabiegów. "
+msgstr ""
+
+#: home.php:596
+msgid "Twoja skóra będzie gładka, przyjemna w dotyku i rozjaśniona"
+msgstr ""
+
+#: home.php:146 home.php:1078
+msgid "Umów się na konsultację"
+msgstr ""
+
+#: footer.php:255 footer.php:257
+msgid "Umów się na wizytę"
+msgstr ""
+
+#: home.php:582
+msgid "Unikniesz bólu"
+msgstr ""
+
+#: home.php:635
+msgid "Unikniesz podrażnień"
+msgstr ""
+
+#: home.php:662
+msgid "Uniwersalna długość fali 808NM"
+msgstr ""
+
+#: page-privacy.php:76
+msgid "upoważnieni pracownicy i współpracownicy Administratora,"
+msgstr ""
+
+#: page-privacy.php:79
+msgid ""
+"upoważnione organy państwowe - na podstawie odpowiednich przepisów prawa, w "
+"szczególności w ramach walki z oszustwami i nadużyciami. Środki takie mogą "
+"polegać m.in. na przekazaniu danych osobowych odbiorcy w państwie, które "
+"zgodnie z decyzją Komisji Europejskiej zapewnia odpowiednią ochronę danych "
+"osobowych, czy też na przekazaniu danych osobowych na podstawie "
+"standardowych klauzul umownych zatwierdzonych przez Komisję Europejską."
+msgstr ""
+
+#: home.php:675
+msgid "Usuwa nawet cienkie, słabo pigmentowane włosy"
+msgstr ""
+
+#: home.php:205 header.php:83 header.php:91
+msgid "Usługi"
+msgstr ""
+
+#: home.php:52 home.php:71 home.php:90
+msgid "Uzyskaj"
+msgstr ""
+
+#: footer.php:186
+msgid "Uzyskaj zniżkę"
+msgstr ""
+
+#: page-privacy.php:94
+msgid ""
+"Użytkownik może wyłączyć umieszczanie i przechowywanie plików cookies na "
+"poziomie używanej przeglądarki internetowej. Sposób wyłączenia plików "
+"cookies zależy od używanej przeglądarki internetowej. Szczegółowe informacje "
+"o możliwości i sposobach obsługi plików cookies można znaleźć w ustawieniach "
+"oprogramowania (przeglądarki internetowej). Informacje na temat zarządzania "
+"plikami cookies w poszczególnych przeglądarkach można znaleźć na stronach "
+"poświęconych danym przeglądarkom."
+msgstr ""
+
+#: page-privacy.php:57
+msgid "Użytkownikowi przysługują następujące prawa:"
+msgstr ""
+
+#: home.php:316
+msgid "voucher podarunkowy"
+msgstr ""
+
+#: page-privacy.php:41
+msgid ""
+"w celach analitycznych, w szczególności w celu badania satysfakcji "
+"Użytkowników, dostosowania oferty Serwisu do oczekiwań Użytkowników, poprawy "
+"jakości świadczonych usług, co jest prawnie uzasadnionym interesem "
+"Administratora,"
+msgstr ""
+
+#: page-privacy.php:40
+msgid ""
+"w celach dowodowych i archiwalnych, w tym w celu prowadzenia dokumentacji "
+"działalności Administratora oraz zachowania informacji na wypadek prawnej "
+"potrzeby wykazania faktów będących w prawnie uzasadnionym interesie "
+"Administratora,"
+msgstr ""
+
+#: page-privacy.php:38
+msgid ""
+"w celach kontaktowych, tj. przyjmowania i obsługi zgłoszeń przesyłanych za "
+"pośrednictwem formularza kontaktowego, telefonu lub innych środków "
+"komunikacji – na podstawie prawnie uzasadnionego interesu Administratora w "
+"postaci udzielenia odpowiedzi na zgłoszenie,"
+msgstr ""
+
+#: page-privacy.php:39
+msgid ""
+"w celu ewentualnego ustalenia, dochodzenia lub obrony przed roszczeniami, co "
+"jest prawnie uzasadnionym interesem Administratora,"
+msgstr ""
+
+#: page-privacy.php:71
+msgid ""
+"W celu realizacji powyższych uprawnień Użytkownik może skontaktować się z "
+"Administratorem telefonicznie: +48 732 954 980 oraz pod adresem: Święty "
+"Marcin 12/2a, Poznań, Polska 61-803."
+msgstr ""
+
+#: page-privacy.php:37
+msgid ""
+"w celu wypełnienia obowiązków prawnych ciążących na Administratorze, w "
+"szczególności w celach księgowych, finansowych i podatkowych,"
+msgstr ""
+
+#: page-privacy.php:86
+msgid ""
+"w kontekście danych przetwarzanych na podstawie prawnie uzasadnionego "
+"interesu Administratora – do czasu realizacji tego interesu lub wniesienia "
+"sprzeciwu wobec przetwarzania danych osobowych w ten sposób,"
+msgstr ""
+
+#: page-privacy.php:84
+msgid ""
+"w kontekście wykonywania umów zawartych z Administratorem – w czasie ich "
+"obowiązywania, a po tym czasie w okresie przewidzianym przepisami o "
+"przedawnieniu z Kodeksu cywilnego, tj. nie dłużej niż 6 lat od dnia "
+"rozwiązania umowy,"
+msgstr ""
+
+#: page-privacy.php:85
+msgid ""
+"w kontekście wypełniania przez Administratora obowiązków prawnych, w tym "
+"obowiązków prawnych z zakresu prawa podatkowego i rachunkowego – przez okres "
+"i w zakresie przewidzianym przepisami prawa, nie dłużej niż 5 lat od dnia "
+"rozwiązania umowy,"
+msgstr ""
+
+#: page-privacy.php:52
+msgid ""
+"w przypadku przetwarzania danych na podstawie prawnie uzasadnionego interesu "
+"Administratora – do czasu wniesienia przez Użytkownika uzasadnionego "
+"sprzeciwu,"
+msgstr ""
+
+#: page-privacy.php:51
+msgid ""
+"w przypadku przetwarzania danych na podstawie zgody Użytkownika – do czasu "
+"jej wycofania, przy czym wycofanie zgody nie wpływa na zgodność z prawem "
+"przetwarzania, którego dokonano na jej podstawie przed jej wycofaniem,"
+msgstr ""
+
+#: page-privacy.php:53
+msgid ""
+"w przypadku przetwarzania danych w celu oferowania Użytkownikom produktów "
+"lub usług – do czasu wniesienia sprzeciwu przez Użytkownika, nie dłużej "
+"jednak niż przez okres 3 lat od ostatniej aktywności Użytkownika w Serwisie."
+msgstr ""
+
+#: page-privacy.php:49
+msgid ""
+"w przypadku przetwarzania danych w celu wykonania umowy – do czasu "
+"zakończenia jej wykonywania lub rozwiązania umowy,"
+msgstr ""
+
+#: page-privacy.php:50
+msgid ""
+"w przypadku przetwarzania danych w celu wypełnienia obowiązków prawnych "
+"ciążących na Administratorze – przez okres wypełniania tych obowiązków,"
+msgstr ""
+
+#: page-privacy.php:93
+msgid ""
+"W wyniku korzystania z Serwisu na urządzeniach Użytkownika mogą być "
+"przechowywane pliki tekstowe (tzw. cookies), które mają na celu ułatwienie "
+"dostępu do Serwisu oraz korzystania z niego, a także badanie preferencji i "
+"zachowań Użytkownika, aby zapewnić spersonalizowane treści w Serwisie oraz "
+"poprawić jego funkcjonowanie. Dane są również zbierane za pomocą plików "
+"cookies w celach statystycznych."
+msgstr ""
+
+#: page-privacy.php:87
+msgid ""
+"w zakresie danych osobowych przetwarzanych na podstawie zgody – do czasu "
+"wycofania tej zgody."
+msgstr ""
+
+#: home.php:173
+msgid "Wrastające włoski."
+msgstr ""
+
+#: page-privacy.php:112
+msgid "Wróć do widoku witryny"
+msgstr ""
+
+#: home.php:168
+msgid "Wstyd i niepewność"
+msgstr ""
+
+#: home.php:133
+msgid ""
+"Wybierz depilację laserową i zapomnij o podrażnieniach, wrastających "
+"włoskach i czerwonych plamach. Skuteczne usuwanie owłosienia bez bólu i "
+"ciągłych powrotów do uciążliwych metod. Postaw na komfort i długotrwały "
+"efekt – raz na zawsze!"
+msgstr ""
+
+#: header.php:86 header.php:94
+msgid "Wyniki"
+msgstr ""
+
+#: home.php:433
+msgid "Wyniki depilacji laserowej z Buduar Epil – Zobacz efekty!"
+msgstr ""
+
+#: home.php:670
+msgid "Wypadanie włosów w 7 dniu"
+msgstr ""
+
+#: home.php:22
+msgid "Wypadanie włosów w 7 dniu po zabiegu"
+msgstr ""
+
+#: home.php:661
+msgid "Wyprodukowany w Niemczech, USA i Japoni"
+msgstr ""
+
+#: page-privacy.php:19
+msgid ""
+"Właścicielem Serwisu jest Buduar_Epil_Poznań z siedzibą przy ul: Święty "
+"Marcin 12/2a, Poznań, Polska 61-803, który jest administratorem danych "
+"osobowych (dalej „Administrator\")."
+msgstr ""
+
+#: home.php:1015
+msgid ""
+"Zabiegi depilacji laserowej wykonywane są w cyklu. Efekt jest zauważalny po "
+"pierwszym zabiegu, wzrost włosów spowalnia praktycznie natychmiast, po 10-14 "
+"dniach pojawia się pierwsza utrata włosów, zwykle do 30%. Średnio kurs trwa "
+"od 8 do 12 zabiegów w odstępach od 4 tygodni do 3-4 miesięcy. Wszystko jest "
+"jednak ustalane indywidualnie."
+msgstr ""
+
+#: home.php:553
+msgid "Zalety depilacji laserowej"
+msgstr ""
+
+#: footer.php:293 footer.php:296
+msgid "ZAMÓWIĆ VOUCHER PODARUNKOWY NA JEDNĄ PROCEDURĘ LUB KOMPLEKS"
+msgstr ""
+
+#: home.php:420
+msgid ""
+"Zamów 5 zabiegów depilacji laserowej i odbierz 6. gratis. Nie czekaj – "
+"wykorzystaj okazję, by cieszyć się gładką skórą bez podrażnień. Zrób krok w "
+"stronę komfortu i pewności siebie!"
+msgstr ""
+
+#: footer.php:310
+msgid "Zamówienie"
+msgstr ""
+
+#: home.php:606
+msgid "Zaoszczędzisz czas i pieniądze"
+msgstr ""
+
+#: footer.php:159 footer.php:270
+msgid "Zapisać się"
+msgstr ""
+
+#: home.php:856
+msgid "Zapisz się na bezpłatną konsultację"
+msgstr ""
+
+#: footer.php:141 footer.php:143 home.php:873
+msgid "Zapisz się na konsultację"
+msgstr ""
+
+#: home.php:610
+msgid ""
+"Zapomnij o codziennym goleniu czy regularnych wizytach na depilacji woskiem "
+"i związanych z tym kosztach. "
+msgstr ""
+
+#: footer.php:276
+msgid "Zarejestruj się przez Booksy"
+msgstr ""
+
+#: footer.php:214 home.php:524
+msgid "zdobądź przewodnik"
+msgstr ""
+
+#: footer.php:151 footer.php:181 footer.php:209 footer.php:236 footer.php:265
+#: footer.php:305
+msgid "Zgadzam się z"
+msgstr ""
+
+#: home.php:515 home.php:867
+msgid "Zgadzam się z "
+msgstr ""
+
+#: home.php:129
+msgid ""
+"Zmęczony maszynkami i plastrami do depilacji? Czas na trwałe rozwiązanie!"
+msgstr ""
+
+#: home.php:314
+msgid "Zniżka na pierwszą wizytę"
+msgstr ""
+
+#: home.php:27 home.php:41 home.php:60 home.php:79 home.php:98
+msgid "Zobacz cennik"
+msgstr ""
+
+#: home.php:423
+msgid "Zostaw wniosek"
+msgstr ""
+
+#: home.php:500
+msgid "Zostaw wniosek i otrzymaj bezpłatny przewodnik"
+msgstr ""
+
+#: home.php:594
+msgid "Zyskasz piękną skórę"
+msgstr ""
+
+#: home.php:663
+msgid "Złoty standard w depilacji laserowej"
+msgstr ""
+
+#: footer.php:122
+msgid "© 2024 Buduar Epil. Wszelkie prawa zastrzeżone"
+msgstr ""
+
+#: home.php:674
+msgid "Łączy w sobie wszystkie zalety poprzednich modeli FENIX"
+msgstr ""
+
+#: footer.php:28 home.php:763
+msgid "Święty Marcin 12/2a, Poznań, Polska 61-803"
+msgstr ""
+
+#: page-privacy.php:36
+msgid ""
+"świadczenia usług oferowanych za pośrednictwem Serwisu, przeprowadzenia i "
+"realizacji procedur rezerwacyjnych"
+msgstr ""

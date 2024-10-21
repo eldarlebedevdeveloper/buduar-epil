@@ -1,0 +1,1404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Buduar Epil Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-11 07:38+0000\n"
+"PO-Revision-Date: 2024-10-16 22:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: buduar-epil-theme"
+
+#: home.php:596
+msgid " (również w okolicach miejsc intymnych)."
+msgstr "(в тому числі в області інтимних місць)"
+
+#: home.php:612
+msgid " 1-2 wizyty w roku wystarczą, by utrzymać efekt"
+msgstr "Для підтримки ефекту досить 1-2 відвідувань на рік"
+
+#: home.php:672
+msgid " dzięki wysokiej wydajności lasera"
+msgstr " завдяки високій ефективності лазера "
+
+#: home.php:625
+msgid " Gładka, zadbana skóra każdego dnia to nie marzenie, a rzeczywistość!"
+msgstr " Гладка, доглянута шкіра кожен день – це не мрія, а реальність!"
+
+#: home.php:674
+msgid " i spełnia nowoczesne wymagania rynku"
+msgstr " а також відповідає сучасним вимогам ринку"
+
+#: home.php:516 home.php:869
+msgid " i wyrażam zgodę na przetwarzanie danych osobowych"
+msgstr " і даю згоду на обробку персональних даних"
+
+#: home.php:856
+#| msgid " ę już dziś i rozpocznij drogę do gładkiej skóry bez włosów!"
+msgid " już dziś i rozpocznij drogę do gładkiej skóry bez włosów!"
+msgstr " вже сьогодні та почніть шлях до гладкої шкіри без зайвого волосся!"
+
+#: home.php:874
+msgid " Lub zadzwoń do"
+msgstr " Або телефонуйте"
+
+#: home.php:1079
+msgid " lub zadzwoń do nas:"
+msgstr "або зателефонуйте нам:"
+
+#: home.php:675
+msgid " na każdym fototypie skóry"
+msgstr " на будь-якому фототипі шкіри"
+
+#: home.php:585
+msgid " odczuwalne jest ciepło lub lekkie mrowienie."
+msgstr ""
+"Ви відчуєте тепло, або легеньке\n"
+"                    поколювання."
+
+#: home.php:565
+msgid " owłosienie nawet z trudno dostępnych miejsc,"
+msgstr " видаляє волосся навіть з важкодоступних ділянок,"
+
+#: home.php:56
+#, fuzzy
+#| msgid "&nbsp;Pachy + Bikini Głębokie + Nogi Całkowicie"
+msgid " Pachy + Bikini Głębokie + Nogi Całkowicie"
+msgstr " Пахи + бікіні глибоке + ніжки повністю"
+
+#: home.php:75
+#, fuzzy
+#| msgid "&nbsp;Pachy + Bikini Głębokie + Łydki"
+msgid " Pachy + Bikini Głębokie + Łydki"
+msgstr " Пахи + бікіні глибоке + лидки"
+
+#: home.php:670
+msgid " po zabiegu"
+msgstr " після сеансу"
+
+#: home.php:869
+msgid " polityką prywatności nas:"
+msgstr " нашою політикою конфіденційності:"
+
+#: home.php:639
+msgid ""
+" pozbędziesz się ewentualnych defektów skóry i zapalenia mieszków włosowych"
+msgstr ""
+" позбудетеся можливих дефектів шкіри і\n"
+"                        фолікуліту"
+
+#: home.php:727
+msgid " procedura "
+msgstr "процедура"
+
+#: home.php:28 home.php:42 home.php:61 home.php:80 home.php:99 home.php:199
+#: home.php:681 header.php:99
+#, fuzzy
+#| msgid "&nbsp;Umów się na wizytę"
+msgid " Umów się na wizytę"
+msgstr "  Записатись на прийом"
+
+#: home.php:17
+msgid " w Poznaniu"
+msgstr " в Познані"
+
+#: home.php:584
+msgid " Zabieg jest całkowicie bezbolesny,"
+msgstr " Процедура проходить абсолютно безболісно,"
+
+#: home.php:566
+msgid " zapewniając długotrwałe rezultaty."
+msgstr " забезпечення тривалого результату."
+
+#: home.php:654
+msgid ""
+" Został specjalnie zaprojektowany, aby spełnić potrzeby klientów w zakresie "
+"nowoczesnej procedury depilacji laserowej."
+msgstr ""
+"Розроблений спеціально,  щоб задовільнити потреби клієнтів від сучасної "
+"процедури лазерної епіляції."
+
+#: home.php:54 home.php:73 home.php:92
+msgid "-15% zniżkę"
+msgstr "-15% знижки"
+
+#: page-privacy.php:15
+msgid "1. Zasady ogólne "
+msgstr "1. Загальні положення"
+
+#: page-privacy.php:25
+msgid ""
+"2. Cele i podstawy prawne przetwarzania danych osobowych w ramach Serwisu"
+msgstr ""
+"2. Цілі та правові підстави обробки персональних даних у межах Сайту\n"
+
+#: page-privacy.php:44
+msgid "3. Okres przetwarzania danych osobowych"
+msgstr "3. Термін обробки персональних даних"
+
+#: page-privacy.php:55
+msgid "4. Prawa użytkownika dotyczące przetwarzania danych osobowych"
+msgstr "4. Права користувача щодо обробки персональних даних"
+
+#: page-privacy.php:72
+msgid ""
+"5. Odbiorcy danych i przekazywanie danych do państw trzecich lub organizacji "
+"międzynarodowych"
+msgstr ""
+"5.  Одержувачі даних та передача даних до третіх країн або міжнародних "
+"організацій\n"
+
+#: page-privacy.php:81
+msgid "6. Okres przechowywania danych"
+msgstr "6. Період зберігання даних"
+
+#: page-privacy.php:89
+msgid "7. Pliki cookies"
+msgstr "7. Файли cookie"
+
+#: page-privacy.php:21
+msgid ""
+"Administrator chroni dane osobowe Użytkowników przed bezprawnym dostępem do "
+"nich osób trzecich, ocenia środki ochrony danych osobowych, zapewnia "
+"poufność, integralność, dostępność i stabilność systemów i usług "
+"przetwarzania."
+msgstr ""
+"Адміністратор захищає персональні дані Користувачів від незаконного доступу "
+"до них третіми особами, оцінює засоби захисту персональних даних, забезпечує "
+"конфіденційність, цілісність, доступність та стійкість систем та послуг "
+"обробки.\n"
+
+#: page-privacy.php:101
+msgid ""
+"Administrator może aktualizować i zmieniać treść niniejszej Polityki "
+"Prywatności, w szczególności w przypadku rozwoju technologii internetowych, "
+"zmian w przepisach dotyczących ochrony danych osobowych lub rozwoju Serwisu. "
+"Wszelkie zmiany będą publikowane na niniejszej stronie."
+msgstr ""
+"Адміністратор може оновлювати та змінювати зміст цієї Політики "
+"конфіденційності, зокрема у випадку розвитку інтернет-технологій, змін у "
+"законодавстві щодо захисту даних або розвитку Сайту. Про будь-які зміни "
+"можна буде дізнатись на цій сторінці.\n"
+
+#: page-privacy.php:96
+msgid ""
+"Administrator może gromadzić dwa rodzaje plików cookies – sesyjne i stałe. "
+"Pliki sesyjne są tymczasowe i pozostają na urządzeniu Użytkownika do momentu "
+"opuszczenia strony internetowej lub wyłączenia przeglądarki internetowej. "
+"Pliki stałe pozostają na urządzeniu Użytkownika przez czas określony w "
+"parametrach plików cookies lub do momentu ich ręcznego usunięcia przez "
+"Użytkownika."
+msgstr ""
+"Компанія може збирати файли cookie двох типів – як файли «сесійні», так і "
+"файли «постійні». Перші з них є тимчасовими файлами, які залишаються на "
+"пристрої Користувача до виходу з вебсайту або вимкнення програмного "
+"забезпечення (веб-браузера). «Постійні» файли залишаються на пристрої "
+"Користувача протягом часу, визначеного в параметрах файлів «cookies», або до "
+"моменту їх ручного видалення Користувачем.\n"
+
+#: page-privacy.php:98
+msgid ""
+"Administrator zastrzega, że ograniczenie stosowania plików cookies może "
+"wpłynąć na niektóre funkcjonalności dostępne na stronie Serwisu i w "
+"skrajnych przypadkach może uniemożliwić korzystanie z Serwisu."
+msgstr ""
+"Адміністратор застерігає, що обмеження використання файлів cookie може "
+"вплинути на деякі функціональні можливості, доступні на Сайті, а в крайніх "
+"випадках може унеможливити використання Сайту.\n"
+
+#: home.php:1001
+#| msgid ""
+#| "aktywne opalanie w miejscu depilacji, stosowanie samoopalaczy, wizyty w "
+#| "solarium - za 4 tygodnie przed zabiegiem;"
+msgid ""
+"Aktywne opalanie w miejscu depilacji, stosowanie samoopalaczy, wizyty w "
+"solarium - za 4 tygodnie przed zabiegiem;"
+msgstr ""
+"Активна засмага в місці депіляції, використання автозасмаги, відвідування "
+"солярію - за 4 тижні до процедури"
+
+#: footer.php:323
+msgid "Aplikacja zakończyła się sukcesem!"
+msgstr "Заявка була успішною!"
+
+#: home.php:726
+msgid "Bezbolesna"
+msgstr "Безболісно"
+
+#: home.php:17
+msgid "Bezbolesna depilacja laserowa"
+msgstr "Безболісна Лазерна епіляція"
+
+#: home.php:669
+msgid "Bezbolesna procedura"
+msgstr "Безболісна процедура"
+
+#: page-privacy.php:42
+msgid ""
+"bezpośredniego oferowania Użytkownikom własnych produktów i usług (marketing "
+"bezpośredni i remarketing), w szczególności dopasowywania ich do potrzeb "
+"Użytkownika poprzez profilowanie, które jednak nie będzie istotnie wpływać "
+"na sytuację Użytkownika lub powodować wobec niego skutków prawnych, co jest "
+"prawnie uzasadnionym interesem Administratora."
+msgstr ""
+"для пропонування Користувачам власних продуктів та послуг безпосередньо "
+"(прямий маркетинг та ремаркетинг), зокрема підбору їх під потреби "
+"Користувача за допомогою профілювання, що однак не буде істотно впливати на "
+"ситуацію Користувача чи викликати правові наслідки для нього, що є законним "
+"інтересом Адміністратора.\n"
+
+#: home.php:1000
+#| msgid "bielactwo, łuszczyca, ichtioza;"
+msgid "Bielactwo, łuszczyca, ichtioza;"
+msgstr "Вітіліго, псоріаз, іхтіоз;"
+
+#: home.php:163
+msgid "Bolesna depilacja"
+msgstr " Болісна депіляція"
+
+#: footer.php:13
+msgid "Buduar Epil - depilacja laserowa w Poznaniu"
+msgstr "Buduar Epil - лазерна епіляція в Познані"
+
+#. Name of the theme
+msgid "Buduar Epil Theme"
+msgstr ""
+
+#: home.php:153
+msgid "Bądź o krok bliżej wymarzonej sylwetki"
+msgstr "Станьте на крок ближче до тіла мрії"
+
+#: home.php:696
+msgid "Certyfikowany sprzęt"
+msgstr " Сертифіковане обладнання"
+
+#: home.php:997
+#| msgid "choroby onkologiczne;"
+msgid "Choroby onkologiczne;"
+msgstr "Онкологічні захворювання;"
+
+#: home.php:993
+msgid "Ciąża, karmienie piersią;"
+msgstr "Вагітність, годування груддю;"
+
+#: home.php:1050
+msgid "Co jest zabronione po depilacji laserowej?"
+msgstr "Що заборонено після лазерної епіляції?"
+
+#: home.php:1065
+msgid "Czy pracujecie z włosami o jasnym odcieniu?"
+msgstr ""
+"Чи працюєте зі світлим волоссям?\n"
+
+#: home.php:1022
+msgid "Czy zabieg jest bezpieczny i sterylny? "
+msgstr "Це безпечно та стерильно? "
+
+#: page-privacy.php:46
+msgid ""
+"Dane osobowe Użytkowników będą przetwarzane przez okres niezbędny do "
+"realizacji powyższych celów, w szczególności:"
+msgstr ""
+"Персональні дані Користувачів будуть оброблятися на період, необхідний для "
+"досягнення вищевказаних цілей, зокрема:\n"
+
+#: page-privacy.php:31
+msgid ""
+"Dane Użytkownika gromadzone i przetwarzane przez Administratora obejmują "
+"następujące rodzaje danych osobowych Użytkownika: imię, nazwisko, numer "
+"telefonu kontaktowego."
+msgstr ""
+"Дані Користувача, зібрані та оброблені Адміністратором, включають наступні "
+"види персональних даних Користувача: ім'я, прізвище, контактний телефон."
+
+#: page-privacy.php:32
+msgid ""
+"Dane Użytkownika przetwarzane są przez Administratora w następujących celach:"
+msgstr "Дані Користувача обробляються Адміністратором з наступними цілями:"
+
+#: page-privacy.php:29
+msgid "Dane Użytkownika wprowadzone do Serwisu są jego własnością."
+msgstr "Дані Користувача, введені до Сайту, є власністю Користувача."
+
+#: page-privacy.php:102
+msgid "Data ostatniej aktualizacji: 01.07.2024"
+msgstr "Дата останнього оновлення: 01.07.2024"
+
+#: home.php:208
+msgid "Depilacja damska"
+msgstr "Жіноча епіляція"
+
+#: header.php:60
+msgid "depilacja laserowa"
+msgstr "лазерна епіляція"
+
+#: home.php:649
+msgid ""
+"Depilacja laserowa FENIX FireFly 1600W – szybki i bezbolesny sposób na "
+"trwałe usunięcie niechcianych włosków!"
+msgstr ""
+"Лазерна епіляція FENIX FireFly 1600W – швидкий і безболісний спосіб для "
+"тривалого видалення небажаного волосся!\n"
+
+#: home.php:209
+msgid "Depilacja męska"
+msgstr "Чоловіча епіляція"
+
+#: home.php:995
+#| msgid "depilacja woskiem lub pęsetą za 4 tygodnie przed zabiegiem;"
+msgid "Depilacja woskiem lub pęsetą za 4 tygodnie przed zabiegiem;"
+msgstr "Депіляція воском або пінцетом за 4 тижні до процедури;"
+
+#: home.php:1035
+msgid ""
+"Depilowane miejsca powinny być dokładnie ogolone.Miejsca depilowane należy "
+"dokładnie ogolić na 8-24 godziny przed zabiegiem. Jeśli planowana jest "
+"depilacja laserowa górnej wargi, nie można golić tego obszaru, ale usunąć "
+"włosy za pomocą kremu do depilacji."
+msgstr ""
+"Зони епіляції необхідно ретельно поголити.\n"
+"За 8-24 годин до процедури, зони епіляції необхідно ретельно поголити. Якщо "
+"Ви плануєте робити лазерну епіляцію верхньої губи, то цю зону можна не "
+"голити, а забрати волосся кремом для депіляції.\n"
+
+#: home.php:686
+msgid "Dlaczego warto nas wybrać? – Sprawdź nasze atuty!"
+msgstr "Чому варто обрати нас? – Дізнайтеся про наші переваги!"
+
+#: page-privacy.php:77
+msgid ""
+"dostawcy usług zaopatrujący Administratora w rozwiązania techniczne i "
+"organizacyjne umożliwiające świadczenie usług funkcjonalnych (w "
+"szczególności firmy świadczące usługi kurierskie i pocztowe, usługi IT, "
+"usługi marketingowe, prawne i doradcze, a także ich upoważnieni pracownicy i "
+"współpracownicy),"
+msgstr ""
+"постачальники послуг, що забезпечують Адміністратора технічними та "
+"організаційними рішеннями, які дозволяють надавати функціональні послуги "
+"(зокрема, компанії, що надають кур’єрські та поштові послуги, IT-послуги, "
+"маркетингові, юридичні та консультаційні послуги, а також їх уповноважені "
+"працівники та співробітники),\n"
+
+#: page-privacy.php:73
+msgid "Dostęp do danych osobowych Użytkownika mogą mieć następujące kategorie"
+msgstr ""
+"Доступ до персональних даних Користувача можуть мати наступні категорії осіб:"
+"\n"
+
+#: home.php:638
+msgid "Dzięki depilacji laserowej zapomnisz o podrażnieniach,"
+msgstr " З лазерною епіляцією Ви забудете про подразнення,"
+
+#. Author of the theme
+msgid "EldarDeveloper"
+msgstr ""
+
+#: home.php:653
+msgid ""
+"FENIX FireFly 1600w to laser nowej generacji, który posiada wszystkie "
+"niezbędne certyfikaty Unii Europejskiej i FDA."
+msgstr ""
+"FENIX FireFly 1600w — це лазер нового покоління, який має всі необхідні "
+"сертифікати Європейського Союзу та FDA."
+
+#: page-privacy.php:78
+msgid ""
+"firmy, które prowadzą analitykę danych w celu personalizacji reklam i są w "
+"tym kontekście odrębnymi administratorami, w szczególności Google LLC, "
+"więcej informacji na temat ochrony danych można znaleźć na stronie "
+"internetowej pod adresem, Podgórna 12, Poznań, Poland 61-829."
+msgstr ""
+"компанії, що здійснюють аналітику даних для персоналізації реклами та є в "
+"цьому контексті окремими адміністраторами, зокрема Google LLC, більше "
+"інформації про захист даних можна знайти на вебсайті за адресою: https:"
+"//policies.google.com/privacy,\n"
+
+#: home.php:900
+msgid "Galeria"
+msgstr "Галерея"
+
+#: home.php:854
+msgid "Gotowy na zmianę?"
+msgstr "Готові до змін?"
+
+#: home.php:194
+msgid "Gładka skóra"
+msgstr " Гладка шкіра"
+
+#. Name of the template
+#: home.php:2
+msgid "Home"
+msgstr ""
+
+#: footer.php:155 footer.php:181 footer.php:209 footer.php:236 footer.php:265
+#: footer.php:305
+msgid "i wyrażam zgodę na wykorzystywanie danych osobowych"
+msgstr "і даю згоду на використання персональних даних"
+
+#: home.php:1012
+msgid "Ile zabiegów jest potrzebne do zadowalającego efektu?"
+msgstr "Скільки процедур потрібно для задовільного ефекту?"
+
+#: footer.php:145 footer.php:175 footer.php:203 footer.php:230 footer.php:259
+#: footer.php:298 home.php:506 home.php:861
+msgid "Imię*"
+msgstr "Ім’я*"
+
+#: home.php:711
+msgid "Indywidualne podejście do każdego klienta"
+msgstr "Індивідуальний підхід до кожного клієнта"
+
+#: page-privacy.php:30
+msgid ""
+"Informacje i dane o Użytkownikach zbierane są w celu umożliwienia im "
+"korzystania z usług Buduar_Epil_Poznań."
+msgstr ""
+"Інформація та дані про Користувачів збираються з метою надання їм можливості "
+"користування послугами Buduar_Epil_Poznań."
+
+#: home.php:501
+msgid "Jak przygotować się do depilacji laserowej"
+msgstr "Як підготуватися до лазерної епіляції"
+
+#: home.php:1032
+msgid "Jak przygotować się do depilacji laserowej?"
+msgstr "Як підготуватися до лазерної епіляції?"
+
+#: home.php:989
+msgid "Jakie są przeciwskazania do depilacji laserowej?"
+msgstr "Які є протипоказання до лазерної епіляції?"
+
+#: home.php:750 header.php:87 header.php:95
+msgid "Kontakt"
+msgstr "Контакти"
+
+#: page-privacy.php:20
+#| msgid ""
+#| "Kontakt z Administratorem jest możliwy pod numerem telefonu: +48 732 954 "
+#| "980 oraz pod adresem: Święty Marcin 12/2a,Polska 61-803"
+msgid ""
+"Kontakt z Administratorem jest możliwy pod numerem telefonu: +48 732 954 980 "
+"oraz pod adresem: Święty Marcin 12/2a, Poznań, Polska 61-803"
+msgstr ""
+"З Адміністратором можна зв’язатись за номером телефону: +48 732 954 980 та "
+"за адресою: Święty Marcin 12/2a, Poznań, Polska 61-803."
+
+#: page-privacy.php:28
+msgid ""
+"Korzystanie z funkcjonalności Serwisu może wiązać się z gromadzeniem i "
+"przetwarzaniem przez Administratora danych osobowych Użytkowników"
+msgstr ""
+"Використання функціональностей Сайту може передбачати збирання та обробку "
+"Адміністратором персональних даних Користувачів."
+
+#: footer.php:274
+msgid "Lub zarejestruj się przez Booksy"
+msgstr "Або зареєструйтесь через Booksy"
+
+#: home.php:507 home.php:862
+msgid "Marta"
+msgstr "Марія"
+
+#: home.php:1076
+msgid "Masz jakieś pytania?"
+msgstr "Залишились питання?"
+
+#: home.php:55 home.php:74 home.php:93
+msgid "Na pierwszą wizytę"
+msgstr "на перший візит"
+
+#: home.php:565
+msgid "Nasz laser efektywnie usuwa "
+msgstr "Наш лазер ефективно"
+
+#: home.php:1057
+msgid "Nie należy depilować się woskiem."
+msgstr "Не можна робити воскову епіляцію."
+
+#: home.php:1059
+msgid ""
+"Nie należy masować obszarów ciała, na których wykonano depilację, przez "
+"następne 72 godziny."
+msgstr ""
+"Протягом найближчих 72 годин не робити масаж на ділянках тіла, де було "
+"проведено видалення волосся.\n"
+
+#: home.php:1036
+msgid ""
+"Nie należy opalać się na aktywnym słońcu przez 2 tygodnie.Konieczne jest "
+"unikanie opalania się w aktywnym słońcu przez co najmniej 14 dni przed "
+"zabiegiem. Nie należy również opalać się w solarium ani używać samoopalacza. "
+"Latem zaleca się stosowanie kremu z filtrem przeciwsłonecznym co najmniej 50 "
+"SPF na odsłoniętych obszarach ciała."
+msgstr ""
+"Не засмагати на активному сонці 2 тижні.\n"
+"Необхідно виключити засмагу на активному сонці щонайменше 14 днів до "
+"процедури. Також не можна засмагати в солярії та користуватися автозагаром. "
+"У літню пору рекомендується користуватися сонцезахисним кремом не менше 50 "
+"SPF на відкритих ділянках тіла.\n"
+
+#: home.php:1040
+msgid ""
+"Nie należy przecierać obszaru produktami i kremami zawierającymi alkohol.Nie "
+"przecierać obszaru produktami zawierającymi alkohol (toniki, płyny itp.) "
+"przez 3 dni przed zabiegiem. Nie należy nakładać kremów nawilżających na "
+"obszary, w których zostanie przeprowadzona depilacja."
+msgstr ""
+"Не протирати зони спиртовмісними засобами та кремами.\n"
+"3 дні до процедури не можна протирати зони спиртовмісними засобами (тоніки, "
+"лосьйони тощо). Не можна наносити зволожуючі креми, на ті зони де "
+"проводитиметься епіляція."
+
+#: home.php:1044
+msgid ""
+"Nie należy przyjmować antybiotyków przez 2 tygodnie. Przez 14 dni przed "
+"zabiegiem nie należy przyjmować antybiotyków z grupy tetracyklin, "
+"fluorochinolonów i sulfonamidów."
+msgstr ""
+"Не приймати антибіотики 2 тижні. 14 днів перед процедурою не можна приймати "
+"антибіотики тетрациклінового ряду, фторхінолони та сульфаніламіди."
+
+#: home.php:1043
+msgid ""
+"Nie należy również chodzić na basen ani pływać w rzekach i jeziorach przez 3 "
+"dni przed zabiegiem."
+msgstr ""
+"Також 3 дні до процедури не можна відвідувати басейн і купатися в річках та "
+"озерах.\n"
+
+#: home.php:1054
+msgid "Nie należy stosować peelingu ani szorowania."
+msgstr "Не можна користуватися пілінгом або скрабом."
+
+#: home.php:1055
+msgid "Nie należy wyrywać włosków pęsetą."
+msgstr ""
+"Не можна виривати волосинки пінцетом.\n"
+
+#: home.php:1058
+msgid "Nie słodzić po depilacji laserowej."
+msgstr ""
+"Шугарінг після лазерної епіляції робити не можна.\n"
+
+#: home.php:1038
+msgid ""
+"Nie usuwaj włosków u korzenia.W przypadku wcześniejszego usunięcia włosków z "
+"cebulką (woskiem, depilatorem lub pęsetą) należy odczekać 2-3 tygodnie, aż "
+"włoski całkowicie się odbudują. Laser działa bezpośrednio na pigment i "
+"mieszek włosowy."
+msgstr ""
+"Не видаляти волоски з коренем.\n"
+"Якщо Ви видаляли раніше волоски з коренем (віском, епілятором або пінцетом), "
+"слід почекати 2-3 тижні, поки волосяний покрив повністю відновиться. Лазер "
+"впливає безпосередньо на пігмент та цибулину волоска."
+
+#: home.php:1056
+msgid ""
+"Nie używaj golarek elektrycznych w domu, które wyrywają włosy u korzenia."
+msgstr ""
+"Не можна використовувати в домашніх умовах електричні машинки для гоління, "
+"які виривають волоски з коренем.\n"
+
+#: home.php:184
+msgid "Nowe emocje i uczucia"
+msgstr " Нові емоції та відчуття"
+
+#: home.php:510 home.php:864
+msgid "Numer telefonu"
+msgstr "Номер телефону"
+
+#: footer.php:146 footer.php:176 footer.php:204 footer.php:231 footer.php:260
+#: footer.php:300
+msgid "Numer telefonu*"
+msgstr "Номер телефону*"
+
+#: home.php:984
+msgid "Odpowiedzi na najczęściej zadawane pytania – rozwiej swoje wątpliwości!"
+msgstr ""
+"Відповіді на найчастіше задавані питання – розвійте свої сумніви!\n"
+
+#: home.php:994
+#| msgid "opalanie;"
+msgid "Opalanie;"
+msgstr "Засмагати;"
+
+#: header.php:84 header.php:92
+msgid "Opinie"
+msgstr "Відгуки"
+
+#: home.php:323
+msgid "Opinie naszych klientów – dowiedz się, co mówią o nas!"
+msgstr "Відгуки наших клієнтів – дізнайтеся, що про нас кажуть!"
+
+#: home.php:998
+#| msgid "opryszczka, zmiany wirusowe i bakteryjne w miejscu depilacji;"
+msgid "Opryszczka, zmiany wirusowe i bakteryjne w miejscu depilacji;"
+msgstr "Герпес, вірусні та бактеріальні ураження в місці депіляції;"
+
+#: footer.php:171
+msgid "Otrzymaj 15% zniżki na pierwszą wizytę!"
+msgstr "Отримайте знижку 15% на перше відвідування!"
+
+#: home.php:94
+msgid "Pachy + Łydki"
+msgstr "Пахи + Лидки"
+
+#. Description of the theme
+msgid "Personal theme for Buduar Elip website"
+msgstr ""
+
+#: home.php:189
+msgid "Pewność siebie"
+msgstr "Впевненість в своєму тілі"
+
+#: page-privacy.php:97
+msgid ""
+"Pliki cookies umieszczane na urządzeniu końcowym Użytkownika Serwisu mogą "
+"być także wykorzystywane przez reklamodawców współpracujących z "
+"Administratorem. Pliki cookies mogą być również używane, na przykład, przez "
+"sieć Google do wyświetlania reklam dopasowanych do sposobu korzystania z "
+"Serwisu przez Użytkownika. W tym celu mogą przechowywać informacje o ścieżce "
+"nawigacyjnej Użytkownika lub czasie spędzonym na konkretnej stronie. "
+"Informacje o preferencjach Użytkownika gromadzone przez sieć Google."
+msgstr ""
+"Файли cookie, розміщені на кінцевому пристрої Користувача Сайту та "
+"використовувані також рекламодавцями, що співпрацюють з Адміністратором. "
+"Файли cookie можуть також використовуватися зокрема мережею Google для "
+"показу реклами, що відповідає способу, в який Користувач використовує Сайт. "
+"З цією метою можуть зберігати інформацію про навігаційний шлях Користувача "
+"або час перебування на певній сторінці. Щодо інформації про вподобання "
+"Користувача, зібраної мережею Google.\n"
+
+#: home.php:771 header.php:106
+msgid "Pn-Sob: 10:00-19:00"
+msgstr "Пн-Сб: 10:00-19:00"
+
+#: home.php:179
+msgid "PO "
+msgstr "Після"
+
+#: home.php:595
+msgid "Po serii zabiegów "
+msgstr " Після серії процедур"
+
+#: footer.php:198 footer.php:201
+msgid "Pobierz przewodnik \"Jak przygotować się do depilacji laserowej\""
+msgstr ""
+
+#: page-privacy.php:82
+msgid ""
+"Podane przez Użytkownika dane osobowe będą przetwarzane w zakresie i przez "
+"okres niezbędny do realizacji celów, dla których zostały zebrane. Okres ten "
+"nie może być określony jednoznacznie i zależy od decyzji dotyczących "
+"korzystania z usług Administratora, w związku z którymi dane zostały zebrane,"
+" przy czym okres ten nie może zostać przekroczony:"
+msgstr ""
+"Персональні дані, надані Користувачем, будуть оброблятися в обсязі та "
+"протягом періоду, необхідного для досягнення цілей, для яких вони були "
+"зібрані. Цей період неможливо визначити однозначно і він залежить від рішень "
+"щодо використання послуг Адміністратора, у зв'язку з якими дані були зібрані,"
+" однак цей період не може перевищувати:"
+
+#: footer.php:123 page-privacy.php:13
+msgid "Polityka prywatności"
+msgstr " Політика конфіденційності"
+
+#: page-privacy.php:17
+msgid ""
+"Polityka Prywatności określa zasady zachowania poufności i przetwarzania "
+"danych osobowych osób korzystających z serwisu internetowego działającego "
+"pod adresem buduar-epil.pl (dalej: „Serwis\")."
+msgstr ""
+"Політика конфіденційності визначає правила конфіденційності та обробки "
+"персональних даних осіб, які користуються сайтом, що функціонує в мережі "
+"Інтернет за адресою buduar-epil.pl (далі - «Сайт»)."
+
+#: footer.php:153 footer.php:181 footer.php:209 footer.php:236 footer.php:265
+#: footer.php:305 home.php:516
+msgid "polityką prywatności"
+msgstr "політикою конфіденційності"
+
+#: footer.php:36
+msgid "Pon-Sob: 10:00-19:00"
+msgstr "Пн-Сб: 10:00-19:00"
+
+#: home.php:622
+msgid "Poprawisz komfort swojego życia"
+msgstr " Ви поліпшите комфорт життя"
+
+#: home.php:21
+msgid "Potężny laser nowej generacji"
+msgstr "Потужний лазер нового покоління"
+
+#: home.php:564
+msgid "Pozbywasz się niechcianego owłosienia"
+msgstr " Ви позбудетеся небажаного волосся"
+
+#: page-privacy.php:68
+msgid ""
+"prawo do cofnięcia zgody w dowolnym momencie bez wpływu na zgodność z prawem "
+"przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem,"
+msgstr ""
+"право на відкликання згоди в будь-який момент без впливу на правомірність "
+"обробки, здійсненої на підставі згоди до її відкликання,"
+
+#: page-privacy.php:65
+msgid "prawo do ograniczenia przetwarzania danych,"
+msgstr "право на обмеження обробки даних,"
+
+#: page-privacy.php:62
+msgid "prawo do poprawiania niedokładnych lub niekompletnych danych osobowych,"
+msgstr "право на виправлення неточних або неповних персональних даних,"
+
+#: page-privacy.php:66
+msgid "prawo do przenoszenia danych,"
+msgstr "право на перенесення даних,"
+
+#: page-privacy.php:64
+msgid "prawo do usunięcia danych,"
+msgstr "право на видалення даних,"
+
+#: page-privacy.php:67
+msgid "prawo do wniesienia sprzeciwu wobec przetwarzania danych,"
+msgstr "право на заперечення проти обробки даних,"
+
+#: page-privacy.php:60
+msgid ""
+"prawo dostępu do swoich danych osobowych, w tym prawo do otrzymania kopii "
+"tych danych,"
+msgstr ""
+"право на доступ до своїх персональних даних, зокрема право на отримання "
+"копії даних,"
+
+#: page-privacy.php:69
+msgid ""
+"prawo wniesienia skargi do organu nadzorczego zajmującego się ochroną danych "
+"osobowych."
+msgstr ""
+"право подати скаргу до наглядового органу, який займається захистом "
+"персональних даних."
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#. Name of the template
+#: page-privacy.php:2
+msgid "Privacy"
+msgstr ""
+
+#: home.php:417
+msgid "Promocja 5+1 – Gładka skóra na wyciągnięcie ręki!"
+msgstr ""
+
+#: home.php:37
+msgid "PROMOCJA 5+1 – Zyskaj więcej z depilacją laserową!"
+msgstr "АКЦІЯ 5+1 – Отримай більше з лазерною епіляцією!"
+
+#: home.php:207 header.php:85 header.php:93
+msgid "Promocje"
+msgstr "Акція"
+
+#: home.php:158
+msgid "PRZED"
+msgstr "До"
+
+#: page-privacy.php:22
+msgid ""
+"Przetwarzanie i gromadzenie danych Użytkowników odbywa się zgodnie z "
+"wymogami polskiego prawa."
+msgstr ""
+"Обробка та збір даних користувачів відбувається відповідно до вимог "
+"польського законодавства. \n"
+
+#: home.php:1053
+msgid ""
+"Przez 10 dni po zabiegu nie należy się opalać, długo przebywać na słońcu, "
+"chodzić do solarium<"
+msgstr ""
+"Не можна засмагати та довго перебувати на сонці, відвідувати солярій 10 днів "
+"після сеансу.\n"
+
+#: home.php:20
+msgid "Przy zakupie 5 zabiegów, 6 zabieg jest gratis"
+msgstr "При купівлі 5 процедур 6-та процедура в подарунок"
+
+#: home.php:1002
+#| msgid ""
+#| "przyjmowanie leków i ziół światłouczulających, takich jak nagietek, "
+#| "fiołek trójbarwny, dziurawiec, skrzyp, niektóre herbatki odchudzające - "
+#| "należy zrobić co najmniej 2-tygodniową przerwę;"
+msgid ""
+"Przyjmowanie leków i ziół światłouczulających, takich jak nagietek, fiołek "
+"trójbarwny, dziurawiec, skrzyp, niektóre herbatki odchudzające - należy "
+"zrobić co najmniej 2-tygodniową przerwę;"
+msgstr ""
+"Прийом ліків і світлочутливих трав, таких як календула, фіалка триколірна, "
+"звіробій, хвощ польовий, деякі чаї для схуднення – необхідно зробити мінімум "
+"2-тижневу перерву;"
+
+#: page-privacy.php:91
+msgid ""
+"Serwis automatycznie zbiera jedynie informacje zawarte w plikach cookies, o "
+"których mowa poniżej."
+msgstr ""
+"Сайт автоматично збирає лише інформацію, що міститься у файлах cookie, про "
+"які йдеться нижче."
+
+#: footer.php:324
+msgid "Skontaktujemy się z Tobą wkrótce"
+msgstr "Ми зв'яжемося з вами найближчим часом"
+
+#: footer.php:241
+msgid "Skorzystaj"
+msgstr "Скористайтеся перевагами"
+
+#: footer.php:173
+msgid "Skorzystaj z 15 procent  zniżki na pierwszą wizytę!"
+msgstr "Скористайтеся знижкою 15 відсотків на перше відвідування!"
+
+#: footer.php:226 footer.php:228
+msgid "Skorzystaj z gorącej oferty 5+1"
+msgstr "Скористайтеся гарячою пропозицією 5+1"
+
+#: home.php:38
+msgid ""
+"Skorzystaj z wyjątkowej oferty – przy zakupie 5 zabiegów depilacji laserowej,"
+" 6. zabieg otrzymujesz gratis! Gładka skóra na dłużej bez dodatkowych "
+"kosztów."
+msgstr ""
+"Скористайся унікальною пропозицією – при замовленні 5 сеансів лазерної "
+"епіляції, 6-й сеанс отримуєш безкоштовно! Насолоджуйся гладкою шкірою без "
+"додаткових витрат."
+
+#: home.php:672
+msgid "Skrócony czas trwania zabiegów"
+msgstr "Скорочений курс процедур<"
+
+#: home.php:23
+msgid "Skuteczne usuwanie włosów"
+msgstr "Ефективне видалення волосся"
+
+#: home.php:625
+msgid "Staniesz się bardziej pewna siebie."
+msgstr "Станете більш впевненими"
+
+#: home.php:1003
+#| msgid ""
+#| "stosowanie kremów lub maści z witaminą A, retinoidami (np. Isotrexin, "
+#| "Differin, Zorak itp.). Doustna terapia retinoidami wymaga "
+#| "sześciomiesięcznej przerwy między zakończeniem leczenia a pierwszym "
+#| "zabiegiem;"
+msgid ""
+"Stosowanie kremów lub maści z witaminą A, retinoidami (np. Isotrexin, "
+"Differin, Zorak itp.). Doustna terapia retinoidami wymaga sześciomiesięcznej "
+"przerwy między zakończeniem leczenia a pierwszym zabiegiem;"
+msgstr ""
+"Використання кремів або мазей з вітаміном А, ретиноїдами (наприклад, "
+"Ізотрексином, Діфферіном, Зораком та ін.). Пероральна ретиноїдна терапія "
+"потребує піврічної перерви між закінченням лікування і першою процедурою;\n"
+
+#: home.php:1004
+#| msgid ""
+#| "stosowanie witaminy C oraz kwasów owocowych i chemicznych na depilowany "
+#| "obszar wymaga miesięcznej przerwy przed zabiegiem;"
+msgid ""
+"Stosowanie witaminy C oraz kwasów owocowych i chemicznych na depilowany "
+"obszar wymaga miesięcznej przerwy przed zabiegiem;"
+msgstr ""
+"Застосування вітаміну С та фруктових і хімічних кислот на ділянці депіляції "
+"вимагає місячної перерви перед процедурою;\n"
+
+#: home.php:1006
+#| msgid "stwardnienie rozsiane."
+msgid "Stwardnienie rozsiane."
+msgstr "Розсіяний склероз."
+
+#: home.php:741
+msgid "Szybki i długotrwały efekt"
+msgstr "Швидкий і тривалий ефект"
+
+#: home.php:1024
+msgid ""
+"Tak, depilacja laserowa jest całkowicie bezpieczna i sterylna. Pomimo dość "
+"długiego i udanego doświadczenia w stosowaniu, nadal istnieją pewne obawy "
+"dotyczące depilacji laserowej. Promienie lasera używane do usuwania "
+"owłosienia nie wnikają głębiej niż podskórna tkanka tłuszczowa, więc nie "
+"mogą wpływać na narządy wewnętrzne. Pomysł, że kobiety, które nie rodziły, "
+"nie powinny poddawać się depilacji bikini, to nic innego jak mit. Możliwość "
+"narażenia się na nadmierne promieniowanie ultrafioletowe podczas zabiegu "
+"depilacji laserowej jest kilkukrotnie niższa niż w przypadku opalania się "
+"bez użycia kremu ochronnego. Używamy nowoczesnego sprzętu i ściśle "
+"przestrzegamy wszystkich norm sanitarnych i higienicznych. Wszystkie "
+"narzędzia są dokładnie sterylizowane, a specjaliści noszą sterylne "
+"rękawiczki."
+msgstr ""
+"Так, лазерна епіляція абсолютно безпечна і стерильна. Незважаючи на досить "
+"тривалий та успішний досвід застосування, щодо лазерної епіляції досі "
+"існують деякі побоювання. Промені лазера, який використовують для епіляції, "
+"не проникають глибше підшкірно-жирової клітковини, тому вони не можуть "
+"вплинути на внутрішні органи. Думка, що жінкам, які не народжували, не можна "
+"робити епіляцію в зоні бікіні, не більше ніж міф. Можливість отримати "
+"надмірне ультрафіолетове опромінення під час процедури лазерної епіляції в "
+"рази нижче, ніж при загорянні на сонці без використання захисного крему. Ми "
+"використовуємо сучасне обладнання та суворо дотримуємося всіх санітарно-"
+"гігієнічних норм. Всі інструменти проходять ретельну стерилізацію, а "
+"спеціалісти працюють у стерильних рукавичках."
+
+#: home.php:1068
+msgid ""
+"Tak, pracujemy z włosami jasnymi! Laser FENIX FireFly 1600w został "
+"zaprojektowany do skutecznego usuwania nawet cienkich i lekko pigmentowanych "
+"włosów na każdym fototypie skóry. Jednak do osiągnięcia pożądanego efektu "
+"może być wymagane więcej zabiegów. "
+msgstr ""
+"Так, ми працюємо зі світлим волоссям! Лазер FENIX FireFly 1600w розроблений "
+"таким чином, що ефективно видаляє навіть тонке та малопігментоване волосся "
+"на будь-якому фототипі шкіри. Проте для досягнення бажаного ефекту може "
+"знадобитись більше процедур. "
+
+#: home.php:596
+msgid "Twoja skóra będzie gładka, przyjemna w dotyku i rozjaśniona"
+msgstr "Ваша шкіра стане гладкою, приємною на дотик і освітленою"
+
+#: home.php:146 home.php:1078
+msgid "Umów się na konsultację"
+msgstr "Записатись на консультацію"
+
+#: footer.php:255 footer.php:257
+msgid "Umów się na wizytę"
+msgstr "Записатись на прийом"
+
+#: home.php:582
+msgid "Unikniesz bólu"
+msgstr "Ви уникнете болю"
+
+#: home.php:635
+msgid "Unikniesz podrażnień"
+msgstr "Ви уникнете подразнення"
+
+#: home.php:662
+msgid "Uniwersalna długość fali 808NM"
+msgstr "Універсальна довжина хвилі 808НМ"
+
+#: page-privacy.php:76
+msgid "upoważnieni pracownicy i współpracownicy Administratora,"
+msgstr "уповноважені працівники та співробітники Адміністратора,"
+
+#: page-privacy.php:79
+msgid ""
+"upoważnione organy państwowe - na podstawie odpowiednich przepisów prawa, w "
+"szczególności w ramach walki z oszustwami i nadużyciami. Środki takie mogą "
+"polegać m.in. na przekazaniu danych osobowych odbiorcy w państwie, które "
+"zgodnie z decyzją Komisji Europejskiej zapewnia odpowiednią ochronę danych "
+"osobowych, czy też na przekazaniu danych osobowych na podstawie "
+"standardowych klauzul umownych zatwierdzonych przez Komisję Europejską."
+msgstr ""
+"уповноважені державні органи – на основі відповідних законодавчих актів, "
+"зокрема в рамках боротьби з шахрайством та зловживаннями. . Такі заходи "
+"можуть включати, зокрема, передачу персональних даних одержувачу в країні, "
+"яка відповідно до рішення Європейської комісії забезпечує належний захист "
+"персональних даних, або передачу персональних даних на основі стандартних "
+"договірних положень, затверджених Європейською комісією."
+
+#: home.php:675
+msgid "Usuwa nawet cienkie, słabo pigmentowane włosy"
+msgstr "Прибирає навіть тонке малопігментоване волосся"
+
+#: home.php:205 header.php:83 header.php:91
+msgid "Usługi"
+msgstr "Послуги"
+
+#: home.php:52 home.php:71 home.php:90
+msgid "Uzyskaj"
+msgstr "Даруємо"
+
+#: footer.php:186
+msgid "Uzyskaj zniżkę"
+msgstr "Отримати знижку"
+
+#: page-privacy.php:94
+msgid ""
+"Użytkownik może wyłączyć umieszczanie i przechowywanie plików cookies na "
+"poziomie używanej przeglądarki internetowej. Sposób wyłączenia plików "
+"cookies zależy od używanej przeglądarki internetowej. Szczegółowe informacje "
+"o możliwości i sposobach obsługi plików cookies można znaleźć w ustawieniach "
+"oprogramowania (przeglądarki internetowej). Informacje na temat zarządzania "
+"plikami cookies w poszczególnych przeglądarkach można znaleźć na stronach "
+"poświęconych danym przeglądarkom."
+msgstr ""
+"Користувач може вимкнути розміщення та зберігання файлів cookie на рівні "
+"використовуваного ним веб-браузера. Спосіб вимкнення файлів cookie залежить "
+"від використовуваного Користувачем веб-браузера. Детальну інформацію про "
+"можливість і способи обробки файлів cookie можна знайти в налаштуваннях "
+"програмного забезпечення (веб-браузера). Інформацію про управління файлами "
+"cookie в окремих браузерах можна знайти на сторінках, присвячених окремим "
+"браузерам.\n"
+
+#: page-privacy.php:57
+msgid "Użytkownikowi przysługują następujące prawa:"
+msgstr "Користувач має наступні права:"
+
+#: home.php:316
+#, fuzzy
+#| msgid "oucher podarunkowy"
+msgid "voucher podarunkowy"
+msgstr "Подарунковий ваучер"
+
+#: page-privacy.php:41
+msgid ""
+"w celach analitycznych, w szczególności w celu badania satysfakcji "
+"Użytkowników, dostosowania oferty Serwisu do oczekiwań Użytkowników, poprawy "
+"jakości świadczonych usług, co jest prawnie uzasadnionym interesem "
+"Administratora,"
+msgstr ""
+"для аналітичних цілей, зокрема для вивчення задоволеності Користувачів, "
+"налаштування пропозицій Сайту до очікувань Користувачів, поліпшення якості "
+"наданих послуг, що є законним інтересом Адміністратора,"
+
+#: page-privacy.php:40
+msgid ""
+"w celach dowodowych i archiwalnych, w tym w celu prowadzenia dokumentacji "
+"działalności Administratora oraz zachowania informacji na wypadek prawnej "
+"potrzeby wykazania faktów będących w prawnie uzasadnionym interesie "
+"Administratora,"
+msgstr ""
+"для аналітичних цілей, зокрема для вивчення задоволеності Користувачів, "
+"налаштування пропозицій Сайту до очікувань Користувачів, поліпшення якості "
+"наданих послуг, що є законним інтересом Адміністратора,\n"
+
+#: page-privacy.php:38
+msgid ""
+"w celach kontaktowych, tj. przyjmowania i obsługi zgłoszeń przesyłanych za "
+"pośrednictwem formularza kontaktowego, telefonu lub innych środków "
+"komunikacji – na podstawie prawnie uzasadnionego interesu Administratora w "
+"postaci udzielenia odpowiedzi na zgłoszenie,"
+msgstr ""
+"для контактних цілей, тобто прийняття та обслуговування запитів, надісланих "
+"через контактну форму, телефон, чи інші засоби комунікації – на підставі "
+"законного інтересу Адміністратора у вигляді надання відповіді на запит,\n"
+
+#: page-privacy.php:39
+msgid ""
+"w celu ewentualnego ustalenia, dochodzenia lub obrony przed roszczeniami, co "
+"jest prawnie uzasadnionym interesem Administratora,"
+msgstr ""
+"для доказових та архівних цілей, у тому числі для ведення документації "
+"діяльності Адміністратора та збереження інформації на випадок юридичної "
+"необхідності доведення фактів, що є законним інтересом Адміністратора,"
+
+#: page-privacy.php:71
+#| msgid ""
+#| "W celu realizacji powyższych uprawnień Użytkownik może skontaktować się z "
+#| "Administratorem telefonicznie: +48 732 954 980 oraz pod adresem: Święty "
+#| "Marcin 12/2a,Polska 61-803."
+msgid ""
+"W celu realizacji powyższych uprawnień Użytkownik może skontaktować się z "
+"Administratorem telefonicznie: +48 732 954 980 oraz pod adresem: Święty "
+"Marcin 12/2a, Poznań, Polska 61-803."
+msgstr ""
+"Для реалізації вищевказаних прав Користувач може зв'язатися з "
+"Адміністратором за номером телефону: +48 732 954 980 та за адресою: Święty "
+"Marcin 12/2a, Poznań, Polska 61-803. \n"
+
+#: page-privacy.php:37
+msgid ""
+"w celu wypełnienia obowiązków prawnych ciążących na Administratorze, w "
+"szczególności w celach księgowych, finansowych i podatkowych,"
+msgstr ""
+"для виконання правових зобов'язань, що покладаються на Адміністратора, "
+"зокрема з метою бухгалтерського, фінансового та податкового обліку,"
+
+#: page-privacy.php:86
+msgid ""
+"w kontekście danych przetwarzanych na podstawie prawnie uzasadnionego "
+"interesu Administratora – do czasu realizacji tego interesu lub wniesienia "
+"sprzeciwu wobec przetwarzania danych osobowych w ten sposób,"
+msgstr ""
+"у контексті даних, оброблюваних на підставі законного інтересу "
+"Адміністратора – до реалізації цих інтересів або подання заперечення проти "
+"обробки персональних даних таким чином,\n"
+
+#: page-privacy.php:84
+msgid ""
+"w kontekście wykonywania umów zawartych z Administratorem – w czasie ich "
+"obowiązywania, a po tym czasie w okresie przewidzianym przepisami o "
+"przedawnieniu z Kodeksu cywilnego, tj. nie dłużej niż 6 lat od dnia "
+"rozwiązania umowy,"
+msgstr ""
+"у контексті виконання укладених з Адміністратором договорів – протягом їх "
+"дії, а після цього протягом періоду, передбаченого законодавством щодо "
+"позовної давності з Цивільного кодексу, тобто не більше ніж 6 років з дня "
+"завершення дії договору,\n"
+
+#: page-privacy.php:85
+msgid ""
+"w kontekście wypełniania przez Administratora obowiązków prawnych, w tym "
+"obowiązków prawnych z zakresu prawa podatkowego i rachunkowego – przez okres "
+"i w zakresie przewidzianym przepisami prawa, nie dłużej niż 5 lat od dnia "
+"rozwiązania umowy,"
+msgstr ""
+"у контексті виконання Адміністратором своїх юридичних зобов'язань, включаючи "
+"юридичні зобов'язання в області податкового та бухгалтерського права – "
+"протягом періоду та в обсязі, передбаченому законодавством, не більше ніж 5 "
+"років з дня завершення дії договору,\n"
+
+#: page-privacy.php:52
+msgid ""
+"w przypadku przetwarzania danych na podstawie prawnie uzasadnionego interesu "
+"Administratora – do czasu wniesienia przez Użytkownika uzasadnionego "
+"sprzeciwu,"
+msgstr ""
+"у разі обробки даних на підставі законного інтересу Адміністратора – до "
+"моменту вираження Користувачем обґрунтованого заперечення,\n"
+
+#: page-privacy.php:51
+msgid ""
+"w przypadku przetwarzania danych na podstawie zgody Użytkownika – do czasu "
+"jej wycofania, przy czym wycofanie zgody nie wpływa na zgodność z prawem "
+"przetwarzania, którego dokonano na jej podstawie przed jej wycofaniem,"
+msgstr ""
+"у разі обробки даних на підставі згоди Користувача – до моменту її "
+"відкликання, при цьому відкликання згоди не впливає на правомірність обробки,"
+" що здійснювалася на її підставі до моменту відкликання,\n"
+
+#: page-privacy.php:53
+msgid ""
+"w przypadku przetwarzania danych w celu oferowania Użytkownikom produktów "
+"lub usług – do czasu wniesienia sprzeciwu przez Użytkownika, nie dłużej "
+"jednak niż przez okres 3 lat od ostatniej aktywności Użytkownika w Serwisie."
+msgstr ""
+"у разі обробки даних для пропонування Користувачам продуктів чи послуг – до "
+"моменту вираження Користувачем заперечення, але не довше, ніж протягом "
+"періоду 3 років від останньої активності Користувача на Сайті."
+
+#: page-privacy.php:49
+msgid ""
+"w przypadku przetwarzania danych w celu wykonania umowy – do czasu "
+"zakończenia jej wykonywania lub rozwiązania umowy,"
+msgstr ""
+"у разі обробки даних для виконання договору – до моменту закінчення його "
+"виконання або припинення договору,\n"
+
+#: page-privacy.php:50
+msgid ""
+"w przypadku przetwarzania danych w celu wypełnienia obowiązków prawnych "
+"ciążących na Administratorze – przez okres wypełniania tych obowiązków,"
+msgstr ""
+"у разі обробки даних для виконання правових зобов'язань, що покладаються на "
+"Адміністратора, – на період виконання цих зобов'язань,\n"
+
+#: page-privacy.php:93
+msgid ""
+"W wyniku korzystania z Serwisu na urządzeniach Użytkownika mogą być "
+"przechowywane pliki tekstowe (tzw. cookies), które mają na celu ułatwienie "
+"dostępu do Serwisu oraz korzystania z niego, a także badanie preferencji i "
+"zachowań Użytkownika, aby zapewnić spersonalizowane treści w Serwisie oraz "
+"poprawić jego funkcjonowanie. Dane są również zbierane za pomocą plików "
+"cookies w celach statystycznych."
+msgstr ""
+"В результаті використання Сайту в пристроях Користувача можуть зберігатися "
+"текстові файли (так звані cookies), метою яких є полегшення доступу до Сайту "
+"та користування ним, а також вивчення уподобань та поведінки Користувача, "
+"щоб забезпечити надання персоналізованого контенту на Сайті та поліпшити "
+"функціонування Сайту. Дані збираються за допомогою файлів cookie також для "
+"статистичних цілей.\n"
+
+#: page-privacy.php:87
+msgid ""
+"w zakresie danych osobowych przetwarzanych na podstawie zgody – do czasu "
+"wycofania tej zgody."
+msgstr ""
+"у контексті персональних даних, оброблюваних на підставі згоди – до моменту "
+"відкликання цієї згоди."
+
+#: home.php:173
+msgid "Wrastające włoski."
+msgstr " Вросле волосся"
+
+#: page-privacy.php:112
+msgid "Wróć do widoku witryny"
+msgstr "Повернутися до перегляду сайту"
+
+#: home.php:168
+msgid "Wstyd i niepewność"
+msgstr " Сором та невпевненість"
+
+#: home.php:133
+msgid ""
+"Wybierz depilację laserową i zapomnij o podrażnieniach, wrastających "
+"włoskach i czerwonych plamach. Skuteczne usuwanie owłosienia bez bólu i "
+"ciągłych powrotów do uciążliwych metod. Postaw na komfort i długotrwały "
+"efekt – raz na zawsze!"
+msgstr ""
+"Позбудьтесь подразнень, врослих волосків і червоних плям назавжди. Лазерна "
+"епіляція – це безболісний спосіб отримати гладку шкіру без необхідності "
+"постійно повертатися до незручних процедур. Комфорт та довготривалий "
+"результат – саме те, що ви шукаєте!"
+
+#: header.php:86 header.php:94
+msgid "Wyniki"
+msgstr "Результати"
+
+#: home.php:433
+msgid "Wyniki depilacji laserowej z Buduar Epil – Zobacz efekty!"
+msgstr "Результати лазерної епіляції з Buduar Epil – переконайтеся самі!"
+
+#: home.php:670
+msgid "Wypadanie włosów w 7 dniu"
+msgstr "Випадіння волосся вже на 7-й день"
+
+#: home.php:22
+msgid "Wypadanie włosów w 7 dniu po zabiegu"
+msgstr "Випадіння волосся вже на 7-й день після сеансу"
+
+#: home.php:661
+msgid "Wyprodukowany w Niemczech, USA i Japoni"
+msgstr "Виробляється в Німеччині, США та Японії"
+
+#: page-privacy.php:19
+#| msgid ""
+#| "Właścicielem Serwisu jest Buduar_Epil_Poznań z siedzibą przy ul: Święty "
+#| "Marcin 12/2a,Polska 61-803, który jest administratorem danych osobowych "
+#| "(dalej „Administrator\")."
+msgid ""
+"Właścicielem Serwisu jest Buduar_Epil_Poznań z siedzibą przy ul: Święty "
+"Marcin 12/2a, Poznań, Polska 61-803, który jest administratorem danych "
+"osobowych (dalej „Administrator\")."
+msgstr ""
+"Сайт керується Buduar_Epil_Poznań розташованого за адресою: Święty Marcin "
+"12/2a, Poznań, Polska 61-803, що являється адміністратором персональних "
+"даних (далі «Адміністратор»)."
+
+#: home.php:1015
+msgid ""
+"Zabiegi depilacji laserowej wykonywane są w cyklu. Efekt jest zauważalny po "
+"pierwszym zabiegu, wzrost włosów spowalnia praktycznie natychmiast, po 10-14 "
+"dniach pojawia się pierwsza utrata włosów, zwykle do 30%. Średnio kurs trwa "
+"od 8 do 12 zabiegów w odstępach od 4 tygodni do 3-4 miesięcy. Wszystko jest "
+"jednak ustalane indywidualnie."
+msgstr ""
+"Процедури лазерної епіляції проводяться курсом. Ефект помітний після першої "
+"процедури, сповільнюється ріст волосся практично відразу, через 10-14 днів "
+"відбуваються перші випадіння волосся, як правило це десь до 30%. В "
+"середньому курс триває від 8 до 12 процедур з інтервалами від 4 тижнів до 3-"
+"4 місяців. Проте все визначається індивідуально. "
+
+#: home.php:553
+msgid "Zalety depilacji laserowej"
+msgstr "переваги лазерної епіляції"
+
+#: footer.php:293 footer.php:296
+msgid "ZAMÓWIĆ VOUCHER PODARUNKOWY NA JEDNĄ PROCEDURĘ LUB KOMPLEKS"
+msgstr "ЗАМОВИТИ ПОДАРУНКОВИЙ ВАУЧЕР НА ОДНУ ПРОЦЕДУРУ АБО КОМПЛЕКС"
+
+#: home.php:420
+msgid ""
+"Zamów 5 zabiegów depilacji laserowej i odbierz 6. gratis. Nie czekaj – "
+"wykorzystaj okazję, by cieszyć się gładką skórą bez podrażnień. Zrób krok w "
+"stronę komfortu i pewności siebie!"
+msgstr ""
+"Замовте 5 процедур лазерної епіляції та отримайте 6-ту в подарунок. Не "
+"втрачайте шанс отримати гладку шкіру без подразнень і болю. Зробіть крок до "
+"впевненості та комфорту вже сьогодні!"
+
+#: footer.php:310
+msgid "Zamówienie"
+msgstr "Замовити"
+
+#: home.php:606
+msgid "Zaoszczędzisz czas i pieniądze"
+msgstr "Ви заощадите час і гроші"
+
+#: footer.php:159 footer.php:270
+msgid "Zapisać się"
+msgstr "Записатись"
+
+#: home.php:856
+msgid "Zapisz się na bezpłatną konsultację"
+msgstr "Запишіться на безкоштовну консультацію"
+
+#: footer.php:141 footer.php:143 home.php:873
+msgid "Zapisz się na konsultację"
+msgstr "Запишіться на консультацію"
+
+#: home.php:610
+msgid ""
+"Zapomnij o codziennym goleniu czy regularnych wizytach na depilacji woskiem "
+"i związanych z tym kosztach. "
+msgstr ""
+"Забудьте про щоденне гоління або регулярні походи на воскову епіляцію та "
+"витрати на них."
+
+#: footer.php:276
+msgid "Zarejestruj się przez Booksy"
+msgstr "Зареєструйтесь через Booksy"
+
+#: footer.php:214 home.php:524
+msgid "zdobądź przewodnik"
+msgstr "отримати гайд"
+
+#: footer.php:151 footer.php:181 footer.php:209 footer.php:236 footer.php:265
+#: footer.php:305
+msgid "Zgadzam się z"
+msgstr "Я згоден з"
+
+#: home.php:515 home.php:867
+msgid "Zgadzam się z "
+msgstr "Я згоден з "
+
+#: home.php:129
+msgid ""
+"Zmęczony maszynkami i plastrami do depilacji? Czas na trwałe rozwiązanie!"
+msgstr "Втомилися від бритв і воскових смужок? Обирайте лазерну епіляцію!"
+
+#: home.php:314
+msgid "Zniżka na pierwszą wizytę"
+msgstr "Знижка на перший візит"
+
+#: home.php:27 home.php:41 home.php:60 home.php:79 home.php:98
+msgid "Zobacz cennik"
+msgstr "Переглянути прайс"
+
+#: home.php:423
+msgid "Zostaw wniosek"
+msgstr "Залишити заявку"
+
+#: home.php:500
+msgid "Zostaw wniosek i otrzymaj bezpłatny przewodnik"
+msgstr "Залиште заявку та отримайте безкоштовний гайд-інструкцію"
+
+#: home.php:594
+msgid "Zyskasz piękną skórę"
+msgstr "Ви отримаєте красиву шкіру"
+
+#: home.php:663
+msgid "Złoty standard w depilacji laserowej"
+msgstr "Золотий стандарт в лазерній епіляції"
+
+#: footer.php:122
+msgid "© 2024 Buduar Epil. Wszelkie prawa zastrzeżone"
+msgstr "© 2024 Buduar Epil. Всі права захищені"
+
+#: home.php:674
+msgid "Łączy w sobie wszystkie zalety poprzednich modeli FENIX"
+msgstr "Поєднує в собі усі переваги попередніх моделей FENI"
+
+#: footer.php:28 home.php:763
+msgid "Święty Marcin 12/2a, Poznań, Polska 61-803"
+msgstr "Święty Marcin 12/2a, Poznań, Polska 61-803"
+
+#: page-privacy.php:36
+msgid ""
+"świadczenia usług oferowanych za pośrednictwem Serwisu, przeprowadzenia i "
+"realizacji procedur rezerwacyjnych"
+msgstr ""
+"для надання послуг, пропонованих через Сайт, здійснення та реалізації "
+"бронювання процедур,"
